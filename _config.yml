@@ -1,0 +1,28 @@
+name: KrishnasCloset
+favicon: null
+layout_spectrum: 0.9828061643056571
+typography_spectrum: 0.8024106288794428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5051403660327196
+  lightness: 0.4085424749646336
+  saturation: 0.37067749770358205
+  rhythmicContrast: 0.302946648793295
+purpose: []
